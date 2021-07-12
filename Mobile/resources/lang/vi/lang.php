@@ -1,0 +1,20 @@
+<?php
+return[
+'product' => 'Sản Phẩm',
+'home' => 'Trang chủ',
+'video' => 'Videos Shop',
+'blogs' => 'Tin Tức',
+'cart' => 'Giỏ Hàng',
+'contact' => 'Liên Hệ',
+'languge' => 'Ngôn Ngữ',
+'login' => 'Đăng Nhập',
+'signup'=>'Đăng Ký',
+'logout'=>'Đăng xuất',
+'commitment'=>'cam kết',
+'covering'=>'Đảm Bảo',
+'guarantee'=>'Bảo Hành',
+'delivery'=>'Giao Hàng',
+'pay'=>'trả góp',
+'technicalassistance'=>"Hỗ trợ kỹ thuật",
+'customer'=>'Thông Tin Cá Nhân',
+];
